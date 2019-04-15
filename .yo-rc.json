@@ -1,0 +1,21 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.2.0",
+    "props": {
+      "location": "path",
+      "appName": "RWLInventory",
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "bootstrap",
+      "auth": false,
+      "lazy": true,
+      "angulartics": false,
+      "prettier": true,
+      "projectName": "rwl-inventory",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  }
+}
